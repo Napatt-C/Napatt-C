@@ -1,16 +1,40 @@
-### Hi there 👋
+# :cyclone:  Napatt-C's github profile :cyclone: 
 
-<!--
-**Napatt-C/Napatt-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__________________________________________________________________________________________
 
-Here are some ideas to get you started:
+### :godmode: About me 
+__________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#####  :man: **Hi, my name is *Patt*. I'm website developer from Mahasarakham, Thailand.**
+
+#####  :computer: I started this career path since January, 2022 and then I found the another widest world on code!
+#####  :computer: I known myself I'm very new for this site but if my project's ideas can help you to learned or understand something from, that all I want.
+
+
+
+### 🧰 Tools I use 
+__________________________________________________________________________________________
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS logo" width="50" height="50" />
+
+
+### 📖 My lastest website contents
+__________________________________________________________________________________________
+* [astromelon: Starting website animation using GSAP](https://github.com/Napatt-C/Napatt-C.github.io) 🟢🧦
+
+
+### 📹 My lastest video on Youtube channel
+__________________________________________________________________________________________
+
+###### Soon
+
+
+
+###  :earth_asia: My social media 
+__________________________________________________________________________________________
+
+###### Soon
+
+
+
+
