@@ -42,6 +42,17 @@ ________________________________________________________________________________
 
   [<img align="center" alt="youtube" width="40px" height="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" />](https://www.youtube.com/channel/UCaC5maZYjvpFq8o8bQkf8kg) [<img align="center" alt="instagram" width="40px" height="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/gpattto/)
 
+  and also gmail: <br>
+  **napattcharoenchai@gmail.com**
+  
+</div>
+
+<br>
+
+<div align="center">
+   Thanks for watching my Github portfolio. Have a great day! 🌻 <br>
+  <br>
+  <img src="https://media2.giphy.com/media/KWRGEgDaW9thlZzZYg/giphy.gif?cid=790b761194e44a4f9c1835eebc9c8bb6ce3c532ac40d163b&rid=giphy.gif&ct=g" width="250px" height="300px">
 </div>
 
 
